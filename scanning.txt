@@ -1,1 +1,2 @@
 password="Vassu@598"
+this is example file for git secrets
